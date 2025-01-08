@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.sukajee.encrypteddatastore"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.sukajee.encrypteddatastore"
         minSdk = 27
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
